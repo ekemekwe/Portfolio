@@ -26,9 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Paynit"
-              description="Attendance & Payroll Protocol for NIIT Enugu"
+              description="Attendance & Payroll Protocol for National Institute of Information Technology, Enugu. "
               ghLink="https://github.com/soumyajit4419/app-niit"
-              //demoLink="https://chatify-49.web.app/"
+              demoLink="http://niitattendance.atwebpages.com/admin/index.php"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Hoodieni"
-              description="A telegram bot that offers shopping experience right in Telegram. Accepts payment in cryptocurrency, telegram stars and cash via cards"
+              description="A telegram bot that offers seamless shopping experience to Telegram users without having to leave the app. Accepts payment in cryptocurrency, telegram stars and cash via cards"
               //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="t.me/hoodieni_bot/"
             />
