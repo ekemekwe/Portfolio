@@ -39,7 +39,7 @@ function Projects() {
               title="Hoodieni"
               description="A telegram bot that offers seamless shopping experience to Telegram users without having to leave the app. Accepts payment in cryptocurrency, telegram stars and cash via cards"
               //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="t.me/hoodieni_bot/"
+              demoLink="https://t.me/hoodieni_bot/"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Editor.io"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              //ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://code-web.vercel.app/"              
             />
           </Col>
 
