@@ -21,16 +21,6 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
-              title="Paynit"
-              description="Attendance & Payroll Protocol for National Institute of Information Technology, Enugu. "
-              ghLink="https://github.com/soumyajit4419/app-niit"
-              demoLink="http://niitattendance.atwebpages.com/admin/index.php"
-            />
-          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -54,6 +44,16 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Paynit"
+              description="Attendance & Payroll Protocol for National Institute of Information Technology, Enugu. "
+              ghLink="https://github.com/soumyajit4419/app-niit"
+              demoLink="http://niitattendance.atwebpages.com/admin/index.php"
+            />
+          </Col>
 
         </Row>
       </Container>
