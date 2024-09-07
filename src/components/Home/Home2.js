@@ -102,7 +102,7 @@ function Home2() {
             //       <AiFillInstagram />
             //     </a>
             //   </li>
-            </ul>
+            // </ul>
           </Col>
         </Row>
       </Container>
