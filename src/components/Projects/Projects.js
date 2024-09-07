@@ -23,20 +23,20 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Paynit}
+              imgPath={paynit}
               isBlog={false}
-              title="Chatify"
+              title="Paynit"
               description="Attendance & Payroll Protocol for NIIT Enugu"
               ghLink="https://github.com/soumyajit4419/app-niit"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
-          <Col md={4} className="Hoodieni">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Hoodieni"
               description="A telegram bot that offers shopping experience right in Telegram. Accepts payment in cryptocurrency, telegram stars and cash via cards"
               //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="t.me/hoodieni_bot/"
